@@ -1,6 +1,7 @@
 Telethon==1.37.0
 pymongo==4.10.1
 tqdm==4.66.5
+rarfile
 Django
 djangorestframework
 djangorestframework-simplejwt
