@@ -6,8 +6,8 @@ from tqdm import tqdm
 
 
 # Your API details (replace with your actual credentials)
-api_id = "28599207"
-api_hash = "39c07050f1d70924d5f1877c0a2b02f5"
+api_id = "API_ID"
+api_hash = "API_HASH"
 
 channel_username = "t.me/interview_siaforce"
 
