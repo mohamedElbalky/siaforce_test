@@ -1,0 +1,8 @@
+Telethon==1.37.0
+pymongo==4.10.1
+tqdm==4.66.5
+Django
+djangorestframework
+djangorestframework-simplejwt
+python-decouple
+django-cors-headers
